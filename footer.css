@@ -1,0 +1,34 @@
+.footer {
+  background-color: rgb(255, 255, 255);
+  color: rgb(20, 2, 2);
+  text-align: center;
+  margin-top: 24px;
+  font-size: 32px;
+ border: 0px solid black;
+ border-radius: 5px;
+}
+.para2{
+padding-top: 12px;
+background-color: black;
+color: whitesmoke;
+padding-bottom: 12px;
+}
+ .para3{
+  font-size: 20px;
+  font-weight: bolder;
+  color: #948e8e;
+  font-size: 16px;
+}
+.find{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  column-count: 5;
+  margin-top: 12px;
+}
+
+.contact-icon{
+  width: 35px;
+  height: 35px;
+  object-fit: contain;
+}
